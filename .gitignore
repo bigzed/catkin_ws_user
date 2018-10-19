@@ -6,3 +6,11 @@ build/
 devel/
 logs/
 /.metadata/
+*.aux
+*.toc
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdf
+*.synctex.gz
